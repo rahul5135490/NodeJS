@@ -1,0 +1,10 @@
+a=5;
+b=10;
+c=15;
+d=a+b+c;
+console.log(d);
+console.log("Sum is: " + d);
+console.log(`Sum is: ${d}`);        
+console.log(typeof d);
+console.log("hi there");
+console.log('hi there I am using single quotes my name is rahul srivastava');
