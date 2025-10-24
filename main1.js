@@ -8,3 +8,5 @@ console.log(`Sum is: ${d}`);
 console.log(typeof d);
 console.log("hi there");
 console.log('hi there I am using single quotes my name is rahul srivastava');
+let name="rahul srivastava";
+console.log(`hi there I am using backticks my name is ${name}`);
